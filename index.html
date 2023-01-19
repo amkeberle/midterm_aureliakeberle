@@ -18,7 +18,18 @@
 </video>
   <!--Code and other technologies-->
         <h3> </h3>
-        <pre> </pre>
+        <pre>input.buttonA.onEvent(ButtonEvent.Click, function () {
+             light.setAll(0xffffff)
+             brightness_click += 20
+             light.setBrightness(brightness_click)
+             })
+             input.buttonB.onEvent(ButtonEvent.Click, function () {
+             light.setAll(0xffffff)
+             brightness_click += -20
+             light.setBrightness(brightness_click)
+             })
+             let brightness_click = 0
+             brightness_click = 0 </pre>
         <p> </p>
   <!--Character, Set, and Mechanical Design-->
         <h3> </h3>
