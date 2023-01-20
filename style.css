@@ -37,4 +37,11 @@
         text-align: center;
         font-family: Verdana, sans-serif;
       }
+      video {
+        width: 70%;
+        height: auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+      }
   
