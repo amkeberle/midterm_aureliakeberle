@@ -14,11 +14,12 @@
         text-decoration-color: black;
       }
       h4 {
-        text-align: center;
+        text-align: left;
         font-family: Georgia, serif;
       }
       p {
-        text-indent: 20px;
+      
+         text-indent: 20px;
       }
       table, th, td {
         border: 1px solid;
@@ -34,7 +35,7 @@
         height: 75%;
       }
       h5 {
-        text-align: center;
+        text-align: left;
         font-family: Verdana, sans-serif;
       }
       video {
