@@ -14,12 +14,14 @@ body {background-color: lightgrey;}
         text-decoration-color: black;
       }
       h4 {
+        margin-right: 150px;
+        margin-left: 150px;
         text-align: left;
         font-family: Georgia, serif;
       }
       p {
-         margin-right: 100px;
-         margin-left: 100px;
+         margin-right: 150px;
+         margin-left: 150px;
          text-indent: 20px;
       }
       img{
