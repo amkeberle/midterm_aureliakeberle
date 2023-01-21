@@ -45,9 +45,9 @@ body {background-color: lightgrey;}
         margin-right: auto;
       }
      .column {
-       float: center;
+       float: left;
        width: 33%;
-       padding: 4px;
+       padding: 5px;
       }
     .row::after {
       content: "";
