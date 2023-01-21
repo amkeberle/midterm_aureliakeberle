@@ -47,8 +47,8 @@ body {background-color: lightgrey;}
       }
      .column {
        float: left;
-       width: 20%;
-       padding: 2px;
+       width: 25%;
+       padding: 4px;
       }
     .row::after {
       content: "";
