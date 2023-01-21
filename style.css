@@ -45,7 +45,7 @@ body {background-color: lightgrey;}
         margin-right: auto;
       }
      .column {
-       float: left;
+       float: center;
        width: 25%;
        padding: 4px;
       }
