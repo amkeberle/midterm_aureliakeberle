@@ -45,7 +45,7 @@ body {background-color: lightgrey;}
 
     .column {
       flex: 33.33%;
-      padding: 50px;
+      padding: 0px;
       }
   @media screen and (max-width: 500px) {
     .column {
